@@ -26,3 +26,24 @@ I am 25 years old and currently work in a team implementing IT products. At the 
 * Jira
 * Trello
 * DevTools
+
+## Code example:
+```
+let eurosCount = 100;
+
+let dollarsPerEuro = 1.25;
+let yuansPerDollar = 6.91;
+
+let dollarsCount = eurosCount * dollarsPerEuro;
+console.log(dollarsCount);
+
+let yuansCount = dollarsCount * yuansPerDollar;
+console.log(yuansCount);
+```
+
+## Education:
+* **APOU UR "Izhevsk Industrial and Economic College" (2015-2019):**
+    * Information systems (by industry)
+
+* **GeekBrains:**
+    * QA Engineer
