@@ -47,3 +47,7 @@ console.log(yuansCount);
 
 * **GeekBrains:**
     * QA Engineer
+
+## Languages:
+* **Russian:** native
+* **English:** A2
